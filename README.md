@@ -9,6 +9,10 @@ Use the package manager [npm](https://www.npmjs.com/) Or [yarn](https://yarnpkg.
 ```bash
 yarn add fs-extra prettier
 ```
+or 
+```bash
+yarn 
+```
 
 ## Usage
 
