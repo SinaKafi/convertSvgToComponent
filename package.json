@@ -1,0 +1,23 @@
+{
+  "name": "converter",
+  "version": "1.0.0",
+  "description": "Easy Scricpt to conver .svg files to any JS or TS components using your Custom template",
+  "main": "converter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/SinaKafi/convertSvgToComponent.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SinaKafi/convertSvgToComponent/issues"
+  },
+  "homepage": "https://github.com/SinaKafi/convertSvgToComponent#readme",
+  "dependencies": {
+    "fs-extra": "^11.2.0",
+    "prettier": "^3.3.3"
+  }
+}
